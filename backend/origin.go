@@ -1,3 +1,5 @@
-package main
-   type Origin {
-   }
+package backend
+type Origin struct {
+
+
+}
